@@ -1,6 +1,6 @@
 ![fig1](Images/fig1.jpg)
 
-## Challenge
+### Challenge
 
 ## Background
 
