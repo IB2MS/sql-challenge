@@ -1,4 +1,4 @@
-![fig1](Images/fig1.jng)
+![fig1](Images/fig1.jpg)
 
 # sql-challenge
 
