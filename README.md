@@ -1,6 +1,6 @@
 ![fig1](Images/fig1.jpg)
 
-# sql-challenge
+## Challenge
 
 ## Background
 
