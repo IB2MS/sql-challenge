@@ -25,8 +25,8 @@ Use the provided information to create a table schema for each of the six CSV fi
  - Specify the data types, primary keys, foreign keys, and other constraints.
  - For the primary keys, verify that the column is unique.   
  - Import each CSV file into its corresponding SQL table.
-
-
+   
+   [PH_Queries](EmployeeSQL/PH_Queries.sql)
 
 ## Data Analysis 
  1. List the employee number, last name, first name, sex, and salary of each employee.
